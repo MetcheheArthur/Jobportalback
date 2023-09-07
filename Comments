@@ -1,0 +1,5 @@
+//ROUTES API
+//app.get('/api', (req, res) => {
+    // Return a response for /api endpoint
+  //  res.send('Hello from API!');
+  //});
